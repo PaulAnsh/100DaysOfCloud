@@ -1,3 +1,4 @@
 # Day 1
 
-AWS Course - 
+Started learning AWS Certified Cloud Practitioner.
+Progress- Learned about Cloud Concepts and Cloud Security. 
