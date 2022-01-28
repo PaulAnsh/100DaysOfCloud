@@ -1,12 +1,7 @@
 # 100DaysOfCloud
-This respitory is documenatry of me doing #100daysofcloud challenge and getting myself into Cloud World. 
+This Repository is documentary of me doing #100daysofcloud challenge and getting myself into Cloud World. 
+
 ## Ansh's Cloud Journey
-
-[✍️ Introduce yourself]
-
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
 
 - [Twitter](https://twitter.com/PaulAnsh1)
 - [LinkedIn](https://www.linkedin.com/in/anshpaul)
