@@ -1,5 +1,5 @@
 # 100DaysOfCloud
-This Repository is documentary of me doing #100daysofcloud challenge and getting myself mixed up with Cloud World
+This Repository is documentary of me doing #100daysofcloud challenge and getting myself mixed up with Cloud World.
 ## Ansh's Cloud Journey
 
 - [Twitter](https://twitter.com/PaulAnsh1)
