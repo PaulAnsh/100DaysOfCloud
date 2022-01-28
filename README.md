@@ -13,7 +13,7 @@
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](progress/day1.md)
+- [ ] ☁️ 1 > [First Day](progress/day1.md)
 - [ ] ☁️ 2 > [Second Day](Jprogress/day2.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
