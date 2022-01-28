@@ -1,5 +1,5 @@
 # 100DaysOfCloud
-100 Days of Cloud challenge
+This respitory is documenatry of me doing #100daysofcloud challenge and getting myself into Cloud World. 
 ## Ansh's Cloud Journey
 
 [✍️ Introduce yourself]
