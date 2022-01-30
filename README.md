@@ -7,10 +7,10 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [First Day](progress/day1.md)
-- [ ] ☁️ 2 > [Second Day](progress/day2.md)
-- [ ] ☁️ 3 > [Third Day](progress/day3.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 1 > [Day 1](progress/day1.md)
+- [ ] ☁️ 2 > [Day 2](progress/day2.md)
+- [ ] ☁️ 3 > [Day 3](progress/day3.md)
+- [ ] ☁️ 4 > [Day 4](progress/day4.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
