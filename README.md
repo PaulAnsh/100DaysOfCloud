@@ -13,7 +13,7 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 - [ ] ☁️ 4 > [Day 4](progress/day4.md)
 - [ ] ☁️ 5 > [Day 5](progress/day5.md)
 - [ ] ☁️ 6 > [Day 6](progress/day6.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [DAY 7](progress/day7.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
