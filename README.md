@@ -16,13 +16,13 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 - [ ] ☁️ 7 > [Day 7](progress/day7.md)
 - [ ] ☁️ 8 > [Day 8](progress/day8.md)
 - [ ] ☁️ 9 > [Day 9](progress/day9.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Day 10](progress/day10.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 11 > [Day 11](progress/day11.md)
+- [ ] ☁️ 12 > [Day 12](progress/day12.md)
+- [ ] ☁️ 13 > [Day 13](progress/day13.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
