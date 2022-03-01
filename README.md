@@ -23,13 +23,13 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 - [ ] ☁️ 11 > [Day 11](progress/day11.md)
 - [ ] ☁️ 12 > [Day 12](progress/day12.md)
 - [ ] ☁️ 13 > [Day 13](progress/day13.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 14 > [Day 14](progress/day14.md)
+- [ ] ☁️ 15 > [Day 15](progress/day15.md)
+- [ ] ☁️ 16 > [Day 16](progress/day16.md)
+- [ ] ☁️ 17 > [Day 17](progress/day17.md)
+- [ ] ☁️ 18 > [Day 18](progress/day18.md)
+- [ ] ☁️ 19 > [Day 19](progress/day19.md)
+- [ ] ☁️ 20 > [Day 20](progress/day20.md)
 
 ## Crossing the bridge
 
