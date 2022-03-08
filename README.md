@@ -42,7 +42,7 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 - [ ] ☁️ 27 > [Day 27](progress/day27.md)
 - [ ] ☁️ 28 > [Day 28](progress/day28.md)
 - [ ] ☁️ 29 > [Day 29](progress/day29.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Day30](progress/day30.md)
 
 ## Into the bushy, thorny forest
 
