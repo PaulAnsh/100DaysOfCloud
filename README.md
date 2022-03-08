@@ -33,15 +33,15 @@ This Repository is documentary of me doing #100daysofcloud challenge and getting
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
+- [ ] ☁️ 21 > [Day 21](Journey/021/Readme.md)
+- [ ] ☁️ 22 > [Day 22](Journey/022/Readme.md)
+- [ ] ☁️ 23 > [Day 23](Journey/023/Readme.md)
+- [ ] ☁️ 24 > [Day 24](Journey/024/Readme.md)
+- [ ] ☁️ 25 > [Day 25 ](Journey/025/Readme.md)
+- [ ] ☁️ 26 > [Day 26](Journey/026/Readme.md)
+- [ ] ☁️ 27 > [Day 27](Journey/027/Readme.md)
+- [ ] ☁️ 28 > [Day 28](Journey/028/Readme.md)
+- [ ] ☁️ 29 > [Day 29](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
